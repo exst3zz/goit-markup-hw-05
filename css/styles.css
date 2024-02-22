@@ -686,6 +686,7 @@ input:checked + .modal-form-checkbox-label > .span-checkbox {
 }
 .privacy-policy-link {
   color: #4d5ae5;
+  text-decoration: underline;
 }
 .button-checkbox {
   display: block;
